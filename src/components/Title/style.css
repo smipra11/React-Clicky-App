@@ -1,0 +1,15 @@
+.jumbotron {
+    width: 100%;
+    min-height: 200px;
+    text-align: center;
+    font-size: 3rem;
+       color: #2A77AE;
+    padding-bottom: 150px;
+    padding-top: 150px;
+  }
+
+  .title{
+    font-size: 50px;
+    font-weight: bold;
+  }
+  
